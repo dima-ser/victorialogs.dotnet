@@ -1,5 +1,7 @@
 # VictoriaLogs .NET Logging Provider
 Allows logging from your .NET app directly to [VictoriaLogs](https://docs.victoriametrics.com/victorialogs/)
+## Requirements
+.NET 8.0+
 ## How to use
 ### Reference in your project
 
