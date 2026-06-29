@@ -5,10 +5,14 @@ Allows logging from your .NET app directly to [VictoriaLogs](https://docs.victor
 ## How to use
 ### Reference in your project
 
+If adding from nuget.org:
+
 ```
- dotnet add reference ../Dimaser.Dotnet.VictoriaLogs.csproj
+ dotnet add package Dimaser.Dotnet.VictoriaLogs
 ```
-or as a nuget from local nuget package feed
+
+If building from source, clone the repo and build the project. Create a local nuget package source, then publish the .nupkg to your local package store. Then add it to your project:
+
 ```
 dotnet add package Dimaser.Dotnet.VictoriaLogs --source [/your-local/package-source]
 ```
