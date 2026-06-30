@@ -8,7 +8,7 @@
     <Version>0.6.4</Version>
     <Authors>dima-ser</Authors>
     <Description>ASP.NET Core ILogger provider for VictoriaLogs</Description>
-    <RepositoryUrl>https://github.com/dima-ser/dotnet.victorialogs</RepositoryUrl>
+    <RepositoryUrl>https://github.com/dima-ser/victorialogs.dotnet</RepositoryUrl>
     <RootNamespace>Dimaser.VictoriaLogs.Dotnet</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageReadmeFile>README.md</PackageReadmeFile>
